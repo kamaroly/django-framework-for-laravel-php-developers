@@ -1,4 +1,4 @@
-# django-framework-for-laravel-php-developers
+# Django Framework For PHP/ Laravel Developers
 A book that helps people who use php/ laravel framework to get started with Django Framework.
 I am writing this book in public, however I'd like to bundle it as a book in the end and sell it.
 
